@@ -1,0 +1,12 @@
+{
+
+  "kafkaHost": "debian",
+  "kafkaPort": "9092",
+  "kafkaTopic": "alerts",
+  "kafkaGroup": "cluster1",
+  "mongoUrl": "mongodb://127.0.0.1/",
+  "mongoHBCol": "prestacop.records",
+  "mongoAlertCol": "prestacop.alerts",
+  "imgPath": "alertManager/output/img/"
+
+}

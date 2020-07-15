@@ -1,0 +1,13 @@
+{
+
+  "kafkaHost": "debian",
+  "kafkaPort": "9092",
+  "kafkaRecordTopic": "records",
+  "kafkaAlertTopic": "alerts",
+  "nbDrones": 200,
+  "alertFrequency": 1000000,
+  "sgPath": "/media/img/stationnement_genant.jpg",
+  "sfPath": "/media/img/suspicion_fuite.jpg",
+  "lePath": "/media/img/leger_embouteillage.jpg"
+
+}
