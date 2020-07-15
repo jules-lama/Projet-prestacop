@@ -1,0 +1,12 @@
+2020.07.14 16:22:29 INFO  started: Metals version 0.9.1 in workspace 'E:\ESGI 4eA IABD\S2\SPARK STREAMING\Projet Spark S2\prestacop\prestacop'
+2020.07.14 16:22:31 INFO  time: initialize in 1.63s
+2020.07.14 16:22:34 WARN  no build tool detected in workspace 'E:\ESGI 4eA IABD\S2\SPARK STREAMING\Projet Spark S2\prestacop\prestacop'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.15 08:58:21 INFO  no build target: using presentation compiler with only scala-library
+2020.07.15 08:58:33 WARN  no build target for: E:\ESGI 4eA IABD\S2\SPARK STREAMING\Projet Spark S2\prestacop\prestacop\alert\src\main\scala\com\prestacop\project\BatchManager.scala
+2020.07.15 08:58:57 WARN  no build target for: E:\ESGI 4eA IABD\S2\SPARK STREAMING\Projet Spark S2\prestacop\prestacop\alert\src\main\scala\com\prestacop\project\Main.scala
+juil. 15, 2020 8:59:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTraceNotification
+juil. 15, 2020 8:59:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTraceNotification
+juil. 15, 2020 9:02:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTraceNotification
